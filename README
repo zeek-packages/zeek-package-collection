@@ -1,0 +1,8 @@
+
+Zeek Package Collection
+=======================
+
+This is the toplevel package for the Zeek Package Collection (ZPC), a
+set of Zeek packages shipped and enabled by the Zeek distribution by
+default. The package itself provides no functionality, other than
+defining dependencies on other members in the ZPC.
