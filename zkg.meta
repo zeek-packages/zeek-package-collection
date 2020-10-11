@@ -2,5 +2,5 @@
 description = The toplevel package for Zeek's standard package collection
 depends =
     zeek >=3.3.0--
-    zeek-packages/loaded-scripts *
-    zeek-packages/stats *
+    zeek-packages/loaded-scripts >=4.0.0,<4.1.0
+    zeek-packages/stats >=4.0.0,<4.1.0
